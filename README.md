@@ -1,2 +1,1 @@
-# portfolio-
-first portfolio website task two internship.
+This is the personolised simple basic portfolio.
